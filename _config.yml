@@ -1,0 +1,23 @@
+name: 'Sajak & Farki'
+favicon: null
+layout_spectrum: 0.2805093713104725
+typography_spectrum: 0.7172094830311835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4387197745963931
+  lightness: 0.7872127457521856
+  saturation: 0.6857580083888024
+  rhythmicContrast: 0.20287643908523023
+purpose: []
